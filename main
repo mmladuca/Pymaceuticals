@@ -23,8 +23,8 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "mouse_drug_data_to_load = \"mouse_drug_data\"\n",
-    "clinical_trial_data_to_load = \"clinicaltrial_data""
+    "mouse_drug_data_to_load = \"mouse_drug_data.csv\"\n",
+    "clinical_trial_data_to_load = \"clinicaltrial_data.csv""
    ]
   },
   {
